@@ -51,4 +51,4 @@ Understanding ML at a deeper level builds confidence, insight, and better intuit
 
 ---
 
-_This is a work in progress — as I learn more, I build mo_
+_This is a work in progress — as I learn more, I build more, I build more. Let’s grow together._
